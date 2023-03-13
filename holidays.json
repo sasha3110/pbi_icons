@@ -1,0 +1,20 @@
+[
+    {
+    "themeName": "easter",
+    "themeStart": "2023-04-02",
+    "themeEnd": "2023-04-16",
+    "themeLogo": "https://github.com/sasha3110/pbi_icons/blob/7456eb0d2f0d6e0adaa1540e80d4a34021529abc/7240342.png"
+},
+{
+    "themeName": "christmas",
+    "themeStart": "2023-12-20",
+    "themeEnd": "2024-01-10",
+    "themeLogo": "https://github.com/sasha3110/pbi_icons/blob/7456eb0d2f0d6e0adaa1540e80d4a34021529abc/1324728.png"
+},
+{
+    "themeName": "halloween",
+    "themeStart": "2023-10-24",
+    "themeEnd": "2023-11-04",
+    "themeLogo": "https://github.com/sasha3110/pbi_icons/blob/7456eb0d2f0d6e0adaa1540e80d4a34021529abc/685842.png"
+}
+]
